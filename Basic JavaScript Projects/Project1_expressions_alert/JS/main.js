@@ -1,0 +1,1 @@
+alert("Hello, Peeps!!")  //outputting a string
