@@ -1,6 +1,4 @@
-var x = myFunction(9, 6);
-document.getElementById("Math").innerHTML = x;
-
-function myFunction(a, b) {
-  return a - b;
+function myFunction() {
+  var x = 9 / 6;
+  document.getElementById("Math").innerHTML = x;
 }
