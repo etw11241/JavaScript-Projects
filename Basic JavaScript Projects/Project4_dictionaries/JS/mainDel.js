@@ -6,5 +6,6 @@ function myDictFunction() {
         Accessory:"F Attachment",
         Song:"Morceau Symphonique"
     };
+    delete Trombone.Song;
     document.getElementById("Dictionary").innerHTML = Trombone.Song;
 }
