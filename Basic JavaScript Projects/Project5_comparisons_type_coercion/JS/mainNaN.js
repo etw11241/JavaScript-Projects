@@ -1,4 +1,4 @@
-function myNANFunction1() {
+function myNaNFunction1() {
     document.getElementById("Test1").innerHTML = 0 / 0;
 }
 
