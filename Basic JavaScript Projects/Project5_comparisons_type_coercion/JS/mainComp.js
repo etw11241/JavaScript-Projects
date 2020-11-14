@@ -3,5 +3,5 @@ function myCompFunction1() {
 }
 
 function myCompFunction2() {
-    document.write(6 + 9 ==15);
+    document.write(6 + 9 == 15);
 }
